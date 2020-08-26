@@ -8,5 +8,17 @@
             "email": "jason@tough.space"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Editorial\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Editorial\\Providers\\EditorialServiceProvider"
+            ]
+        }
+    }
 }

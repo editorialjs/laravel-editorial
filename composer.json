@@ -1,0 +1,12 @@
+{
+    "name": "editorialjs/laravel-editorial",
+    "description": "Laravel Driver for EditorialJs",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jason Funk",
+            "email": "jason@tough.space"
+        }
+    ],
+    "require": {}
+}
